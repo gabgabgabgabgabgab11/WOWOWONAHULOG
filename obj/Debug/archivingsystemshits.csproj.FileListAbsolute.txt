@@ -1,0 +1,52 @@
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\bin\Debug\archivingsystemshits.exe.config
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\bin\Debug\archivingsystemshits.exe
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\bin\Debug\archivingsystemshits.pdb
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.csproj.AssemblyReference.cache
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.Form1.resources
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.loginsignup.resources
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.Properties.Resources.resources
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.csproj.GenerateResource.cache
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.csproj.CoreCompileInputs.cache
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.exe
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivingsystemshits.pdb
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lexis\Desktop\project\lexiscode\archivingsystemshits\obj\Debug\archivin.86954B94.Up2Date
+C:\Users\User\OneDrive\archivingsystemshits\bin\Debug\archivingsystemshits.exe.config
+C:\Users\User\OneDrive\archivingsystemshits\bin\Debug\archivingsystemshits.exe
+C:\Users\User\OneDrive\archivingsystemshits\bin\Debug\archivingsystemshits.pdb
+C:\Users\User\OneDrive\archivingsystemshits\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.Form1.resources
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.loginsignup.resources
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.Properties.Resources.resources
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivin.86954B94.Up2Date
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.exe
+C:\Users\User\OneDrive\archivingsystemshits\obj\Debug\archivingsystemshits.pdb
+C:\Users\User\OneDrive\archivingsystemshits - Copy\bin\Debug\archivingsystemshits.exe.config
+C:\Users\User\OneDrive\archivingsystemshits - Copy\bin\Debug\archivingsystemshits.exe
+C:\Users\User\OneDrive\archivingsystemshits - Copy\bin\Debug\archivingsystemshits.pdb
+C:\Users\User\OneDrive\archivingsystemshits - Copy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.Form1.resources
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.loginsignup.resources
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.Properties.Resources.resources
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivin.86954B94.Up2Date
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.exe
+C:\Users\User\OneDrive\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.pdb
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\bin\Debug\archivingsystemshits.exe.config
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\bin\Debug\archivingsystemshits.exe
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\bin\Debug\archivingsystemshits.pdb
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.csproj.AssemblyReference.cache
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.Form1.resources
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.loginsignup.resources
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.Properties.Resources.resources
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.csproj.GenerateResource.cache
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.csproj.CoreCompileInputs.cache
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivin.86954B94.Up2Date
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.exe
+C:\Users\lexis\Downloads\archivingsystemshits - Copy\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.pdb
