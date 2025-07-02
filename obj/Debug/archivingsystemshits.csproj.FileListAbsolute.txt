@@ -69,3 +69,22 @@ C:\Users\lexis\Downloads\archivingsystemshitfinalagain\archivingsystemshits - Co
 C:\Users\lexis\Downloads\archivingsystemshitfinalagain\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.pdb
 C:\Users\lexis\Downloads\archivingsystemshitfinalagain\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.settings.resources
 C:\Users\lexis\Downloads\archivingsystemshitfinalagain\archivingsystemshits - Copy\obj\Debug\archivingsystemshits.SignUp.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\bin\Debug\archivingsystemshits.exe.config
+C:\Users\lexis\Downloads\WOWOWONAHULOG\bin\Debug\archivingsystemshits.exe
+C:\Users\lexis\Downloads\WOWOWONAHULOG\bin\Debug\archivingsystemshits.pdb
+C:\Users\lexis\Downloads\WOWOWONAHULOG\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.csproj.AssemblyReference.cache
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.archivedocuments.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.categorymanagement.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.documentmanagement.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.Form1.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.loginsignup.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.Properties.Resources.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.searchandretrieve.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.settings.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.SignUp.resources
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.csproj.GenerateResource.cache
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.csproj.CoreCompileInputs.cache
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivin.86954B94.Up2Date
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.exe
+C:\Users\lexis\Downloads\WOWOWONAHULOG\obj\Debug\archivingsystemshits.pdb
