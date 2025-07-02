@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace archivingsystemshits
 {
     internal static class Program
@@ -16,7 +17,7 @@ namespace archivingsystemshits
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new loginsignup());
+            Application.Run(new SignUp());
 
         }
     }

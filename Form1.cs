@@ -13,8 +13,8 @@ namespace archivingsystemshits
 {
     public partial class Form1 : Form
     {
-        private Panel profileBtn;
-        private Panel dropdownMenu;
+     
+
         public Form1()
         {
            
@@ -25,7 +25,7 @@ namespace archivingsystemshits
             panel7.BorderStyle = BorderStyle.None;
             panel9.BorderStyle = BorderStyle.None;
             panel10.BorderStyle = BorderStyle.None;
-       
+                
 
         }
         
@@ -42,6 +42,7 @@ namespace archivingsystemshits
         private void Form1_Load(object sender, EventArgs e)
         {
             InitializeComponent();
+            
             this.FormClosed += Form1_FormClosed;
         }
 
@@ -414,11 +415,16 @@ namespace archivingsystemshits
 
         }
        
-        private void panelDropdown_Paint(object sender, PaintEventArgs e)
+        
+
+        private void panel14_Paint_1(object sender, PaintEventArgs e)
         {
 
         }
 
+        
+
+        
     }
 
 }

@@ -83,6 +83,16 @@ namespace archivingsystemshits.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2e4b0a5c_6a5d_4e8f_9f77_8bd7d660ab2b {
+            get {
+                object obj = ResourceManager.GetObject("2e4b0a5c-6a5d-4e8f-9f77-8bd7d660ab2b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Aristóteles {
             get {
                 object obj = ResourceManager.GetObject("Aristóteles", resourceCulture);
@@ -126,6 +136,16 @@ namespace archivingsystemshits.Properties {
         internal static System.Drawing.Bitmap c5416307_a597_4538_846f_c343363b1cdd_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("c5416307-a597-4538-846f-c343363b1cdd-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap de289ba7_28f7_4089_91f1_867b4eedcadc {
+            get {
+                object obj = ResourceManager.GetObject("de289ba7-28f7-4089-91f1-867b4eedcadc", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
